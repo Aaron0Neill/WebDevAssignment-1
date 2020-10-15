@@ -1,4 +1,4 @@
 # Website for assignment 1 - webdev
 ## Aaron O Neill
 ***
-![Working Hard](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Working Hard](https://tenor.com/view/pepe-dance-pepe-frog-dancing-dance-gif-15740317)

@@ -14,8 +14,10 @@ body{
 
     text-align: center;
     border-radius: 25px;
-    border: 2px solid #FFFFFF;
+    border: 2px solid #000000;
     background-color: #FFFFFF;
+
+    box-shadow: 5px 5px #000000;
     
 }
 
@@ -95,3 +97,51 @@ body{
     box-shadow: 5px 5x 20px #000000;
 }
 
+.GameInfo
+{
+    width: 75%;
+    height: auto;
+
+    position: relative;
+    left: 12.5%;
+
+    margin-bottom: 1em;
+
+    text-align: center;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    background-color: #FFFFFF;
+
+    box-shadow: 3px 3px 2px #000000;
+}
+
+.GameInfo p{
+    word-wrap: break-word;
+    font-size: 20px;
+}
+
+.GameInfo h3{
+    text-decoration: underline;
+    font-weight: 700;
+    padding-bottom: 0;
+}
+
+#Game-Gif{
+    width: 500px;
+    box-shadow: 2px -2px 5px #000000; 
+}
+
+.GameInfo a img{
+    width: 125px;
+    background: #000000;
+    border-radius: 15%;
+}
+
+.GameInfo a img:hover{
+    width: 150px;
+    background: white;
+}
+
+.GameInfo ul li{
+    list-style-type: none;
+}

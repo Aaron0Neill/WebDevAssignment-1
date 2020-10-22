@@ -97,8 +97,7 @@ body{
     box-shadow: 5px 5x 20px #000000;
 }
 
-.GameInfo
-{
+.GameInfo{
     width: 75%;
     height: auto;
 
@@ -113,6 +112,10 @@ body{
     background-color: #FFFFFF;
 
     box-shadow: 3px 3px 2px #000000;
+}
+
+.GameInfo:hover{
+    box-shadow: 5px 5px 2px #3d3d3d;
 }
 
 .GameInfo p{
@@ -131,6 +134,10 @@ body{
     box-shadow: 2px -2px 5px #000000; 
 }
 
+#Game-Gif:hover{
+    box-shadow: 5px -5px 10px #3d3d3d;
+}
+
 .GameInfo a img{
     width: 125px;
     background: #000000;
@@ -144,4 +151,14 @@ body{
 
 .GameInfo ul li{
     list-style-type: none;
+}
+
+#subnav{
+    width: 35%;
+    margin-Left: 35%;
+}
+
+#cv-pdf{
+    width: 75%;
+    height: 850px;
 }
